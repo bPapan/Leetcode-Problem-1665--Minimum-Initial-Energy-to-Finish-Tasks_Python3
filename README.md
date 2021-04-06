@@ -53,5 +53,5 @@ Example 3:
 
 ## Constraints:
 
-    1 <= tasks.length <= 105
-    1 <= actual_i <= minimum_i <= 104
+    1 <= tasks.length <= 10^5
+    1 <= actual_i <= minimum_i <= 10^4
