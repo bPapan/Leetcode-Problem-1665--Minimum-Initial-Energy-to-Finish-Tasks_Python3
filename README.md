@@ -55,3 +55,10 @@ Example 3:
 
     1 <= tasks.length <= 10^5
     1 <= actual_i <= minimum_i <= 10^4
+
+
+## Solution Strategy:
+    
+    - Sort the _tasks_ list non increasingly based on the difference between the minimum energy and actual energy
+    - Total Minimum energy required = sum of actual energy for each of the task
+    - Starting from the _total minimum energy required_, for each task, check whether the remaining energy is less than the minimum energy for that task. If it is, then add extra energy needed to the _total minimum energy required_
