@@ -61,4 +61,7 @@ Example 3:
     
     - Sort the _tasks_ list non increasingly based on the difference between the minimum energy and actual energy
     - Total Minimum energy required = sum of actual energy for each of the task
-    - Starting from the _total minimum energy required_, for each task, check whether the remaining energy is less than the minimum energy for that task. If it is, then add extra energy needed to the _total minimum energy required_
+    - Starting from the _total minimum energy required_, for each task, 
+            - check whether the remaining energy is less than the minimum energy for that task
+            - if it is, then add extra energy needed to the _total minimum energy required_
+            - reduce the remaining energy by minimum energy for the task
