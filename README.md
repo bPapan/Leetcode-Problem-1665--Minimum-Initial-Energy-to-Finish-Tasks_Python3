@@ -49,3 +49,9 @@ Example 3:
         - 1st task. Now energy = 17 - 1 = 16.
         - 4th task. Now energy = 16 - 4 = 12.
         - 6th task. Now energy = 12 - 6 = 6.
+
+
+## Constraints:
+
+    1 <= tasks.length <= 105
+    1 <= actual_i <= minimum_i <= 104
