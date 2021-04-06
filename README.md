@@ -14,9 +14,7 @@ You can finish the tasks in any order you like.
 Return the minimum initial amount of energy you will need to finish all the tasks.
 
  
-
 Example 1:
-
 Input: tasks = [[1,2],[2,4],[4,8]]
 Output: 8
 Explanation:
