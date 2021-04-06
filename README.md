@@ -34,8 +34,8 @@ Example 2:
         - 1st task. Now energy = 32 - 1 = 31.
         - 2nd task. Now energy = 31 - 2 = 29.
         - 3rd task. Now energy = 29 - 10 = 19.
-    - 4th task. Now energy = 19 - 10 = 9.
-    - 5th task. Now energy = 9 - 8 = 1.
+        - 4th task. Now energy = 19 - 10 = 9.
+        - 5th task. Now energy = 9 - 8 = 1.
 
 Example 3:
 
