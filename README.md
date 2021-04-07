@@ -1,5 +1,7 @@
 # Leetcode-Problem-1665-Minimum-Initial-Energy-to-Finish-Tasks_Python3
 
+This solution is posted also in https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/discuss/1145204/python3-simple-solution-faster-than-100
+
 ## Problem Description
 
 You are given an array tasks where tasks[i] = [actual_i, minimum_i]:
